@@ -39,7 +39,7 @@ const Dashboard = () => {
       
       <div className="grid grid-cols-1 gap-6 sm:gap-8">
         <UserInfoCard
-          name="Vidyacharan Tangde"
+          name="Rahul Vijay Waghmare"
           id="FW2655423"
         />
         
@@ -99,8 +99,8 @@ const Dashboard = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 sm:gap-8">
           <ProfileCard
             id="FW2655423"
-            name="Vidyacharan Tangde"
-            sponsor="Fw2694692 SHUBHAM RAVINDRA KASBE"
+            name="Rahul Vijay Waghmare"
+            sponsor="Fw2694692 Vishal Kumar Sharma"
             mobile="8485051063"
             team="Team B"
             pancard=""

@@ -15,7 +15,7 @@ const ICard = () => {
       
       <IDCard
         id="FW2655423"
-        name="VIDYACHARAN PRALHADRAO TANGDE"
+        name="RAHUL VIJAY WAGHMARE"
         designation="Distributor"
         joinDate="23/04/2025"
         address="Office No. Pune-411017"

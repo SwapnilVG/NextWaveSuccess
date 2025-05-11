@@ -15,7 +15,7 @@ const WelcomeLetter = () => {
       
       <WelcomeLetterComponent
         id="FW2655423"
-        name="VIDYACHARAN PRALHADRAO TANGDE"
+        name="RAHUL VIJAY WAGHMARE"
         package="Star Pack"
         amount={1800}
         productName="Freewings Sanitary Pad 1800"

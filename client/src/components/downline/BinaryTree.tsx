@@ -11,7 +11,7 @@ interface TreeNode {
 
 const sampleTreeData: TreeNode = {
   id: "FW2655423",
-  name: "Vidyacharan Tangde",
+  name: "Rahul Vijay Waghmare",
   isActive: true,
   children: [
     {

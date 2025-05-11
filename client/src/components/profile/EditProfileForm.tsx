@@ -3,18 +3,18 @@ import React, { useState } from "react";
 
 const EditProfileForm = () => {
   const [formData, setFormData] = useState({
-    firstName: "VIDYACHARAN",
-    middleName: "PRALHADRAO",
-    lastName: "TANGDE",
+    firstName: "RAHUL",
+    middleName: "VIJAY",
+    lastName: "WAGHMARE",
     address: "",
-    mobile: "8698817682",
+    mobile: "8485051063",
     dob: "",
     pancard: "",
     nomineeName: "",
     relation: "",
     
     // Bank details
-    accountHolder: "VIDYACHARAN PRALHADRAO TANGDE",
+    accountHolder: "RAHUL VIJAY WAGHMARE",
     bankName: "",
     accountNumber: "",
     confirmAccountNumber: "",

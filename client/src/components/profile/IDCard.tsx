@@ -41,7 +41,7 @@ const IDCard: React.FC<IDCardProps> = ({
             {/* ID Card Header */}
             <div className="bg-gradient-to-r from-mlm-navy to-blue-800 text-white p-4 text-center">
               <h2 className="text-xl font-bold">
-                <span className="text-mlm-gold">Freewings</span> 4u
+                <span className="text-mlm-gold">NextWaveSuccess</span>
               </h2>
               <p className="text-xs mt-1">Multitrade (OPC) Pvt Ltd</p>
             </div>
